@@ -2423,7 +2423,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 116.5352 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -2733,7 +2733,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 124.968 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -2812,7 +2812,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 178.562 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -3055,7 +3055,7 @@
 				)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SOP-14_L8.7-W3.9-P1.27-LS6.0-BL"
+		(property "Footprint" "LCSC:SOP-14_L8.7-W3.9-P1.27-LS6.0-BL"
 			(at 149.86 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3282,7 +3282,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 181.3052 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -3515,7 +3515,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 124.968 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -3594,7 +3594,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 118.11 104.648 90)
 			(hide yes)
 			(show_name no)
@@ -3675,7 +3675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 130.5052 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -3922,7 +3922,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SparkFun-Switch:Push_PTH_12x12mm"
+		(property "Footprint" "Button_Switch_SMD:SW_SPST_TL3342"
 			(at 107.95 97.79 0)
 			(hide yes)
 			(show_name no)
