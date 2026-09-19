@@ -44,3 +44,5 @@ fabrication/
 # OS
 .DS_Store
 Thumbs.db
+
+fabrication-toolkit-options.json
