@@ -4289,6 +4289,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Pin 1 and 2 on U1 are swapped in part from lcsc, fix in post"
+		(at 100.9 35.9 0)
+		(layer "F.Fab")
+		(uuid "0ee61f4d-c366-4146-9b66-6d440ef61032")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 109.6 58.3)
 		(end 107.7 58.3)
